@@ -4,7 +4,7 @@ This project is done as part of Bertelsmann Udacity Data Science Challenge. Deta
 
 We are a group of three learners who submitted the project.
 
-* Jicksy John (slack: @jicksy, LinkedIn: https://www.linkedin.com/in/jicksy/)
+* Jicksy John (slack: @jicksy) LinkedIn: https://www.linkedin.com/in/jicksy/)
 * Kristin Bässe (slack: kristin) LinkedIn: https://www.linkedin.com/in/kristin-b%C3%A4sse-9819a115b/
 * Lakshmi Prasannakumar(slack: @lakshmi) LinkedIn: https://www.linkedin.com/in/lakshmiprasannakumar/
 
@@ -20,7 +20,7 @@ We are a group of three learners who submitted the project.
 
 
 ##### General Article Publishing Trend
- * Adding Date column: https://github.com/jicksy/news-analysis/blob/master/CSV%20Generation%20From%20DataFrames.ipynb
+ * Adding Date column: CSV Generation From DataFrames.ipynb
  * Visualization (Google Spreadsheet): https://docs.google.com/spreadsheets/d/1eMTNnWewMJzSqhjySWGRK7FQVayYiwe17-9ITIDJMxw/edit#gid=1231999941
 
 
@@ -29,11 +29,15 @@ We are a group of three learners who submitted the project.
 
 
 #### Gender Ratio of Authors
- * Top 60 authors: https://github.com/jicksy/news-analysis/blob/master/Exporting%20top%2060%20authors%20to%20spreadsheet.ipynb
+ * Top 60 authors: Exporting top 60 authors to spreadsheet.ipynb
  * Visualization (Google Spreadsheet) : https://docs.google.com/spreadsheets/d/1zKRYH7TMkveScwEknkTDNdrpoxHGCoQUTze-2RNcpvI/edit#gid=0
 
- [1] NEWS API, News API; 07/14/18 accessed; https://newsapi.org/
- [2] Adiljadoon-Kaggle, WordCloud with Python; 07/19/18 accessed; https://www.kaggle.com/adiljadoon/word-cloud-with-python 
+ 
+#### Citations:
+
+ * [1] NEWS API, News API; 07/14/18 accessed; https://newsapi.org/
+ 
+ * [2] Adiljadoon-Kaggle, WordCloud with Python; 07/19/18 accessed; https://www.kaggle.com/adiljadoon/word-cloud-with-python 
  
 
 
