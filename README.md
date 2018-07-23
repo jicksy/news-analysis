@@ -11,18 +11,32 @@ We are a group of three learners who submitted the project.
 
 
 ### Data Collection
- * We collected data using NewsAPI[1] in Python 
- * Articles are collected from 16 popular public publishing sources
+ * We collected data using NewsAPI[1] in Python (Python file: NewsAPI Python.ipynb)
+ * Articles are collected from 16 popular public publishing sources 
  * Total Articles collected: 9961
  * Time Period: 02/20/2018 to 07/14/2018
  * Articles are fetched for Data Science, Data Analytics, Machine Learning, Business Analytics and Artificial Intelligence
- * Github Link for project code: https://github.com/jicksy/news-analysis
  * Findings: General Article Publishing Trend, Top Publishers, Gender Ratio of Authors
 
 
+##### General Article Publishing Trend
+ * Adding Date column: https://github.com/jicksy/news-analysis/blob/master/CSV%20Generation%20From%20DataFrames.ipynb
+ * Visualization (Google Spreadsheet): https://docs.google.com/spreadsheets/d/1eMTNnWewMJzSqhjySWGRK7FQVayYiwe17-9ITIDJMxw/edit#gid=1231999941
+
+
+#### Top Publishers Identified
+ * Using Wordcloud[2] in Python: Generate Title Word Cloud.ipynb
+
+
+#### Gender Ratio of Authors
+ * Top 60 authors: https://github.com/jicksy/news-analysis/blob/master/Exporting%20top%2060%20authors%20to%20spreadsheet.ipynb
+ * Visualization (Google Spreadsheet) : https://docs.google.com/spreadsheets/d/1zKRYH7TMkveScwEknkTDNdrpoxHGCoQUTze-2RNcpvI/edit#gid=0
+
  [1] NEWS API, News API; 07/14/18 accessed; https://newsapi.org/
+ [2] Adiljadoon-Kaggle, WordCloud with Python; 07/19/18 accessed; https://www.kaggle.com/adiljadoon/word-cloud-with-python 
+ 
 
 
 ### Final Presentation :
-https://docs.google.com/presentation/d/1_FH0Ll_OME7WucoxowxVXkVh5pzAX3SoAV3ysNxCBJA/edit#slide=id.g3cb93ce6dc_0_19
+Google Spreadsheet https://docs.google.com/presentation/d/1_FH0Ll_OME7WucoxowxVXkVh5pzAX3SoAV3ysNxCBJA/edit#slide=id.g3cb93ce6dc_0_19
 
