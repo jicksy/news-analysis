@@ -24,11 +24,11 @@ We are a group of three learners who submitted the project.
  * Visualization (Google Spreadsheet): https://docs.google.com/spreadsheets/d/1eMTNnWewMJzSqhjySWGRK7FQVayYiwe17-9ITIDJMxw/edit#gid=1231999941
 
 
-#### Top Publishers Identified
+##### Top Publishers Identified
  * Using Wordcloud[2] in Python: Generate Title Word Cloud.ipynb
 
 
-#### Gender Ratio of Authors
+##### Gender Ratio of Authors
  * Top 60 authors: Exporting top 60 authors to spreadsheet.ipynb
  * Visualization (Google Spreadsheet) : https://docs.google.com/spreadsheets/d/1zKRYH7TMkveScwEknkTDNdrpoxHGCoQUTze-2RNcpvI/edit#gid=0
 
